@@ -16,6 +16,6 @@ public class AppTest
     public void selenium_webdriver()
     {
         WebDriver driver = new ChromeDriver();
-        driver.get("https://www.google.com/");
+        driver.get("https://meet.google.com/njf-umnw-sih?authuser=0&pli=1");
     }
 }
